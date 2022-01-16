@@ -1,0 +1,14 @@
+501  127.0.0.1:9015  2021-11-03 00:29:57,289  python-requests/2.22.0  Method Not Implemented
+404  127.0.0.1:9017  2021-11-03 00:37:15,360  Mozilla/5.0  Not Found
+404  "GET /vipul.html HTTP/1.1"  127.0.0.1:9018  2021-11-03 00:43:35,115  Mozilla/5.0  Not Found
+404  "GET /favicon.ico HTTP/1.1"  127.0.0.1:9018  2021-11-03 00:43:35,162  Mozilla/5.0  Not Found
+404  "HEAD /vipul.html HTTP/1.1"  127.0.0.1:9018  2021-11-03 00:52:44,540  python-requests/2.22.0  Not Found
+404  "GET /favicon.ico HTTP/1.1"  127.0.0.1:9019  2021-11-03 00:55:01,918  Mozilla/5.0  Not Found
+404  "GET /favicon.ico HTTP/1.1"  127.0.0.1:8012  2021-11-12 23:43:17,266  Mozilla/5.0  Not Found
+404  "GET /random.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,753  python-requests/2.22.0  Not Found
+403  "GET /delete2.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,755  python-requests/2.22.0  Forbidden
+404  "HEAD /random.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,759  python-requests/2.22.0  Not Found
+403  "HEAD /delete2.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,761  python-requests/2.22.0  Forbidden
+404  "DELETE /random.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,765  python-requests/2.22.0  Not Found
+501  "OPTIONS / HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,771  python-requests/2.22.0  Method Not Implemented
+414  "GET /qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjaaaaaaaaaaaaaaaaaakkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjaaaaaaaaaaaaaaaaaajjjjjjjjjjjjjjjjjjjjj HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,778  python-requests/2.22.0  URI Too Long

@@ -1,0 +1,22 @@
+200  "DELETE /delete.txt HTTP/1.1"  127.0.0.1:9017  2021-11-03 00:33:36,886  python-requests/2.22.0 Request received successfully
+200  "GET /home.html HTTP/1.1"  127.0.0.1:9017  2021-11-03 00:34:39,185  python-requests/2.22.0 Request received successfully
+200  "HEAD /index.html HTTP/1.1"  127.0.0.1:9017  2021-11-03 00:35:18,426  python-requests/2.22.0 Request received successfully
+200  "POST /post HTTP/1.1"  127.0.0.1:9017  2021-11-03 00:36:08,453  python-requests/2.22.0 Request received successfully
+200  "POST / HTTP/1.1"  127.0.0.1:9017  2021-11-03 00:37:15,305  Mozilla/5.0 Request received successfully
+200  "POST / HTTP/1.1"  127.0.0.1:9019  2021-11-03 00:55:01,868  Mozilla/5.0 Request received successfully
+200  "POST /post HTTP/1.1"  127.0.0.1:9019  2021-11-03 01:01:17,765  python-requests/2.22.0 Request received successfully
+200  "POST /post HTTP/1.1"  127.0.0.1:9020  2021-11-03 01:09:59,059  python-requests/2.22.0 Request received successfully
+200  "POST /post HTTP/1.1"  127.0.0.1:9021  2021-11-03 01:14:20,305  python-requests/2.22.0 Request received successfully
+200  "POST / HTTP/1.1"  127.0.0.1:8012  2021-11-12 23:43:17,095  Mozilla/5.0 OK
+200  "GET / HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,724  python-requests/2.22.0 OK
+200  "GET /home.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,751  python-requests/2.22.0 OK
+200  "HEAD / HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,757  python-requests/2.22.0 OK
+200  "DELETE /delete.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,763  python-requests/2.22.0 OK
+200  "PUT /putdata.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,767  python-requests/2.22.0 OK
+201  "PUT /putdata2.txt HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,769  python-requests/2.22.0 Created
+200  "POST / HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,774  python-requests/2.22.0 OK
+200  "GET /index.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,775  text/html OK
+304  "GET /index.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,775  text/html Not Modified
+200  "HEAD /index.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,776  text/html OK
+304  "HEAD /index.html HTTP/1.1"  127.0.0.1:8003  2021-11-14 20:59:52,776  text/html Not Modified
+200  "POST / HTTP/1.1"  127.0.0.1:8003  2021-11-14 21:01:15,692  Mozilla/5.0 OK
